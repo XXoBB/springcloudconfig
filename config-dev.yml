@@ -2,4 +2,4 @@ config:
   branch: main
   name: config-dev
   version: 1.0.0
-  info: springcloud配置中心
+  info: springcloud配置中心config-dev
