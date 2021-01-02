@@ -1,5 +1,5 @@
-server:
-  port: 2222
-spring:
-  application:
-    name: cloud-config-center-prod
+config:
+  branch: main
+  name: config-prod
+  version: 1.0.0
+  info: springcloud配置中心config-prod
