@@ -2,4 +2,4 @@ config:
   branch: main
   name: config-test
   version: 1.0.0
-  info: springcloud配置中心config-test
+  info: springcloud配置中心config-test动态刷新
