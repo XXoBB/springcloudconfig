@@ -3,3 +3,11 @@ config:
   name: config-prod
   version: 1.0.0
   info: springcloud配置中心config-prod
+  
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      #      defaultZone: http://localhost:7001/eureka   单机版
+      defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7001.com:7001/eureka/
