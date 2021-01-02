@@ -1,5 +1,5 @@
-server:
-  port: 1111
-spring:
-  application:
-    name: cloud-config-center-dev
+config:
+  branch: main
+  name: config-dev
+  version: 1.0.0
+  info: springcloud配置中心
