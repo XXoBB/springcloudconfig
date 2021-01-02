@@ -1,5 +1,5 @@
-server:
-  port: 3333
-spring:
-  application:
-    name: cloud-config-center-test
+config:
+  branch: main
+  name: config-test
+  version: 1.0.0
+  info: springcloud配置中心config-test
