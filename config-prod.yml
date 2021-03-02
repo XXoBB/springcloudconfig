@@ -2,7 +2,7 @@ config:
   branch: main
   name: config-prod
   version: 2.0.25
-  info: springcloud配置中心config-prod
+  info: springcloud配置中心config-prod中文读取乱码测试
   
 eureka:
   client:
