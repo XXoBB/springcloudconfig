@@ -1,7 +1,7 @@
 config:
   branch: main
   name: config-prod
-  version: 2.0.0
+  version: 2.0.25
   info: springcloud配置中心config-prod
   
 eureka:
